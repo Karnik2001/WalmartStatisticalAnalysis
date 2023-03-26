@@ -4,7 +4,7 @@ In my completed Master's program capstone project in Data Science, I performed a
 
 To conduct my analysis, I utilized four key analytical techniques: descriptive, associational, exploratory data, and predictive analysis. These methods proved highly effective in identifying areas for potential improvement within Walmart and in predicting future revenue using various machine learning models.
 
-# Analytical techniques description below:
+# Analytical techniques
 
 Descriptive statistical analysis involves generating summary statistics of a dataset. This includes two main components: measures of central tendency and measures of dispersion. Measures of central tendency provide an overview of the dataset, including its mean, mode, median, and any outliers. Measures of dispersion, on the other hand, describe the distribution of the dataset and include statistics such as the standard deviation, mean absolute deviation, variance, range, percentiles, quartiles, skewness, and kurtosis.
 
