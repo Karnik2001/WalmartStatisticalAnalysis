@@ -1,0 +1,33 @@
+robk@statmethods.net, Robert Kabacoff -. “Correlations.” Quick-R: Correlations, https://www.statmethods.net/stats/correlations.html. 
+robk@statmethods.net, Robert Kabacoff -. “Histograms and Density Plots.” Quick-R: Density Plots, https://www.statmethods.net/graphs/density.html. 
+
+“Background Color in GGPLOT2.” R CHARTS | A Collection of Charts and Graphs Made with the R Programming Language, 1 Nov. 2021, https://r-charts.com/ggplot2/background-color/.
+
+
+Prabhakaran, Selva. Statistical Tests, http://r-statistics.co/Statistical-Tests-in-R.html. 
+Zach. “How to Perform a Two Sample t-Test in R.” Statology, 3 Aug. 2022, https://www.statology.org/two-sample-t-test-in-r/. 
+Zach. “How to Perform a Breusch-Pagan Test in R.” Statology, 31 Dec. 2020, https://www.statology.org/breusch-pagan-test-r/. 
+Zach. “Kolmogorov-Smirnov Test in R (with Examples).” Statology, 10 Dec. 2021, https://www.statology.org/kolmogorov-smirnov-test-r/. 
+Zach. “How to Conduct an Anderson-Darling Test in R.” Statology, 21 July 2020, https://www.statology.org/anderson-darling-test-r/. 
+Zach. “How to Conduct a Jarque-Bera Test in R.” Statology, 14 Apr. 2020, https://www.statology.org/how-to-conduct-a-jarque-bera-test-in-r/. 
+
+
+Zach. “How to Perform a Cramer-Von Mises Test in R (with Examples).” Statology, 21 Nov. 2022, https://www.statology.org/cramer-von-mises-test-r/. 
+Zach. “How to Perform a Breusch-Godfrey Test in R.” Statology, 16 Apr. 2021, https://www.statology.org/breusch-godfrey-test-in-r/. 
+Zach. “How to Perform a KPSS Test in R (Including Example).” Statology, 19 Jan. 2022, https://www.statology.org/kpss-test-in-r/. 
+
+
+DataTechNotes. “Regression Example with XGBoost in R.” Regression Example with XGBoost in R, 4 Aug. 2020, https://www.datatechnotes.com/2020/08/regression-example-with-xgboost-in-r.html.
+Zach. “How to Perform Logistic Regression in R (Step-by-Step).” Statology, 29 Sept. 2021, https://www.statology.org/logistic-regression-in-r/. 
+Zach. “How to Calculate AUC (Area under Curve) in R.” Statology, 9 Sept. 2021, https://www.statology.org/auc-in-r/. 
+
+“Sign In.” RPubs, https://rpubs.com/johansetiawan38/time_series_1. 
+
+
+
+
+
+
+
+
+
